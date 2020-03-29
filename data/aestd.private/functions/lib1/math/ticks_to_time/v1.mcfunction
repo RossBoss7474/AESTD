@@ -5,6 +5,7 @@
 scoreboard players set $5 aestd.math.var 5
 scoreboard players set $20 aestd.math.var 20
 scoreboard players set $60 aestd.math.var 60
+scoreboard players set $100 aestd.math.var 100
 scoreboard players set $1200 aestd.math.var 1200
 scoreboard players set $6000 aestd.math.var 6000
 scoreboard players set $72000 aestd.math.var 72000
